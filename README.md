@@ -131,7 +131,7 @@ CodeAlpha_BasicNetworkSniffer
 Clone the repository
 
 ```bash
-git clone https://github.com/YourGitHubUsername/CodeAlpha_BasicNetworkSniffer.git
+git clone https://github.com/ankit-cybersec/CodeAlpha_BasicNetworkSniffer.git
 ```
 
 Move to project directory
